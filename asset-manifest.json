@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jenteca/static/css/main.17c518f2.css",
-    "main.js": "/jenteca/static/js/main.d9652d8e.js",
+    "main.css": "/jenteca/static/css/main.3d12b069.css",
+    "main.js": "/jenteca/static/js/main.e35720ed.js",
     "index.html": "/jenteca/index.html",
-    "main.17c518f2.css.map": "/jenteca/static/css/main.17c518f2.css.map",
-    "main.d9652d8e.js.map": "/jenteca/static/js/main.d9652d8e.js.map"
+    "main.3d12b069.css.map": "/jenteca/static/css/main.3d12b069.css.map",
+    "main.e35720ed.js.map": "/jenteca/static/js/main.e35720ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.17c518f2.css",
-    "static/js/main.d9652d8e.js"
+    "static/css/main.3d12b069.css",
+    "static/js/main.e35720ed.js"
   ]
 }
